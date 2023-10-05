@@ -1,0 +1,4 @@
+Приложение создаёт файлы для компонента stories
+После сборки файлы выгружаются в папку /dev/source/components/stories/
+
+Для корректного отображения страницы подключены template_styles.css, colors.css, bootstrap-3.3.1.min.css и шрифты.
